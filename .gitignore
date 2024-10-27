@@ -2,6 +2,12 @@
 *.sln
 *.rpy
 
+# Abaqus 
+*.odb
+*.vtu
+*.json
+
+
 # User-specific files
 *.rsuser
 *.suo
